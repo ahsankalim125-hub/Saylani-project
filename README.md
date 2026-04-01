@@ -1,4 +1,4 @@
 # Saylani-project
 This is my first Repository.
 <br>
-Author - muhammad Ahsan Mughal
+Author - muhammad Ahsan Mughal.
